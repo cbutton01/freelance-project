@@ -17,7 +17,12 @@ The purpose of this project is to create a portfolio quality website for a local
 * app
 
 ## Notes
-R&D notes go here
+#### WeWork
+  * Uses a really simple design layout
+  * Utilizes a black and white color scheme
+  * Buttons are uniform in appearance
+
+<img src="src/assets/img/weworkpdx.png" height=350>
 
 ## Technologies Used
 * tech

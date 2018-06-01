@@ -24,6 +24,13 @@ The purpose of this project is to create a portfolio quality website for a local
 
 <img src="src/assets/img/weworkpdx.png" height=350>
 
+|--TechSpace--|
+  * Single page for landing page displays a wide variety of images
+  * Simple color scheme
+  * Tech focused
+
+<img src="src/assets/img/techspacepdx.png" height=350>
+
 ## Technologies Used
 * tech
 * used
